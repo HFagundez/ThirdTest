@@ -1,0 +1,17 @@
+div{
+  background-color: #ff7f50;
+  width: 100px;
+  padding: 20px;
+  margin: 0;
+  border: solid;
+  border-width: 10px;
+}
+body{
+  margin:0;
+}
+.father{
+  background-color: #2ed573;
+  width: 50%;
+  height: 300px;
+
+}
